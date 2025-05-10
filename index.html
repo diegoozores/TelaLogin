@@ -5,19 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-    <title>Login Vanguard</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
+    <title>Painel do Jogador</title>
 </head>
 <body>
     <main class="container">
         <form>
-            <h1>Login Vanguard</h1>
-            <div class="input-box">
+            <h1>Login</h1>
+            <div class="input_box">
                 <input type="email" placeholder="Usuário">
                 <i class="bx bxs-user"></i>
             </div>
-            <div class="input-box">
+            <div class="input_box">
                 <input type="password" placeholder="Senha">
                 <i class="bx bxs-lock-alt"></i>
+            </div>
+
+            <div class="remember_pass_forgot">
+                <label>
+                    <input type="checkbox">
+                    Lembrar senha
+                </label>
+                <a href="#">Esqueci minha senha</a>
+            </div>
+
+            <button type="submit" class="login">ACESSAR</button>
+
+            <div class="registration_link">
+                <p>Não possui uma conta? <a href="#">Cadastre-se</a></p>
             </div>
         </form>
     </main>
