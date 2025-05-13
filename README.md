@@ -1,6 +1,6 @@
 # Painel do Jogador
 
- Tela de login feita para praticar conhecimentos em HTML e CSS
+ Tela de login feita para praticar conhecimentos em HTML e CSS. A funcionalidade consiste em um painel de um futuro jogo de RPG Online que roda diretamente no browser do jogador.
 
 [**Link da documentação**](/doc/Tela_de_Login.md)
 
