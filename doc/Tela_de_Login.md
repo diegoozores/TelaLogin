@@ -31,4 +31,4 @@ N/A (link para um protótipo do Figma estaria aqui). Nesse caso, colocarei apena
 2. Ao clicar no botão ACESSAR:
     1. Caso o usuário não tenha digitado o e-mail de acesso, o sistema não deverá prosseguir e deve exibir em uma tooltip no input de e-mail a mensagem: "Preencha este campo";
     2. Caso o usuário tenha informado o e-mail, mas não tenha digitado a senha de acesso, o sistema não deverá prosseguir e deve exibir em uma tooltip no input de e-mail a mensagem: "Preencha este campo";
-3. Ao clicar em "Cadastre-se" o sistema deverá direcionar o usuário para a tela de cadastro, a qual seguirá o definido em [documentação própria *em criação*](#).
+3. Ao clicar em "Cadastre-se" o sistema deverá direcionar o usuário para a tela de cadastro, a qual seguirá o definido em [documentação própria - *em criação*](#).
