@@ -21,13 +21,14 @@
 
 **Conhecimentos novos aprendidos:**
 
-- Alinhamento dos ícones (bxs-user e bxs-lock-alt) para centralizá-los nos inputs de usuário e senha.
+- Alinhamento dos ícones (bxs-user e bxs-lock-alt) para centralizá-los nos inputs de usuário e senha
 - Markdown (já mexia um pouco, mas busquei aprender mais para formatar melhor esse README e a documentação do projeto)
 
 **Próximos passos:**
 
-- Criação da tela de cadastro
-- Criação da tela inicial do Painel com as informações do jogador 
-- Adição de Javascript ao código (ainda eestou aprendendo kkk) 
-- Criação do backend para o painel (NodeJs)
+- [ ] Criação da tela de cadastro
+- [ ] Criação da tela logada do Painel com as informações do jogador 
+- [ ] Adição de Javascript ao código (ainda eestou aprendendo kkk) 
+- [ ] Criação do backend para o painel - NodeJs (?)
 
+> *Essa página foi possível de ser criada graças ao incrível tutorial do Rodolfo Mori disponível [nesse link](https://www.youtube.com/watch?v=pXAGoP2G2vE). A minha ideia foi seguir o tutorial ajustando algumas coisas e acrescentando a documentação ao projeto. Muito obrigado Rodrigo por disponibilizar vídeos tão enriquecedores no seu canal!*
